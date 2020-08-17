@@ -8,6 +8,10 @@ Todo list
 
 A basic todo list application using react where the user can add,remove todo's
 
+## Project Gif
+
+![React todo app gif](/reactTodo.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
