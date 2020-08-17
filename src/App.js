@@ -9,7 +9,7 @@ class App extends Component {
 		super();
 		// appication data
 		this.state = {
-			message: 'Hello  iam sarath from react !',
+			message: 'Hello  i am sarath from react !',
 			newTodo: '',
 			todos: [
 				{
